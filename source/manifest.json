@@ -1,0 +1,18 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "background.js" ]
+      }
+   },
+   "description": "CamDesk The Desktop Webcam Widget",
+   "icons": {
+      "128": "logo.png",
+      "16": "logo.png",
+      "48": "logo.png"
+   },
+   "manifest_version": 2,
+   "name": "CamDesk",
+   "offline_enabled": true,
+   "permissions": [ "audioCapture", "videoCapture", "alwaysOnTopWindows" ],
+   "version": "0.3.6"
+}
