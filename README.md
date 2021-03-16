@@ -1,21 +1,29 @@
 # CamDesk
 The Desktop Webcam Widget
 
-This fork is a reboot of [michaelsboost](https://github.com/michaelsboost)'s [original](http://michaelsboost.com/CamDesk/) CamDesk.
+This fork is a reboot of the abandoned [CamDesk](http://michaelsboost.com/CamDesk/).
 
-## Install
+## Acknowledgement
 
-### Chrome Web Store
-
-~~You can install the app via the Chrome Web Store.~~
-
-This fork of CamDesk is not yet published on the Chrome Web Store. In the meantime you install the app [manually](#manual-installation).
+CamDesk was originally created by [michaelsboost](https://github.com/michaelsboost).
+Feel free to show him your appreciation:
+- via [SquareCash](https://cash.me/$michaelsboost)
+- or [PayPal](https://www.paypal.me/mikethedj4)
+- or [ko-fi](https://ko-fi.com/michaelsboost)
 
 ### Usage
 
 Run the app using the shortcut in `chrome://apps`.
 
-### Manual Installation
+## Install
+
+#### ~~Chrome Web Store~~
+
+Unfortunately, Google has ended support for Chrome Apps, and they can no longer be published on the Chrome Web Store.
+
+Instead you can install the app [manually](#manual-installation).
+
+#### Manual Installation
 
 View the visual guide: [dark](docs/manual-install-dark.png) / [light](docs/manual-install-light.png)
 
@@ -34,11 +42,3 @@ The previous versions of CamDesk created for Windows and Linux are available for
 
 - [Windows v1.2.1](https://github.com/nfearnley/CamDesk/releases/tag/windows-v1.2.1)
 - [Linux v1.0.0](https://github.com/nfearnley/CamDesk/releases/tag/linux-v1.0.0)
-
-## Acknowledgement
-
-CamDesk was originally created by [michaelsboost](https://github.com/michaelsboost).
-Feel free to show him your appreciation:
-- via [SquareCash](https://cash.me/$michaelsboost)
-- or [PayPal](https://www.paypal.me/mikethedj4)
-- or [ko-fi](https://ko-fi.com/michaelsboost)
