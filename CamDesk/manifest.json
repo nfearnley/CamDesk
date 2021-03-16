@@ -6,9 +6,9 @@
    },
    "description": "CamDesk The Desktop Webcam Widget",
    "icons": {
-      "128": "logo.png",
-      "16": "logo.png",
-      "48": "logo.png"
+      "128": "128.png",
+      "48": "48.png",
+      "16": "16.png"
    },
    "manifest_version": 2,
    "name": "CamDesk",
