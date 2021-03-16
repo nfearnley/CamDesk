@@ -1,7 +1,11 @@
+![screenshot](docs/screenshots/screenshot1.png)
+
 # CamDesk
-The Desktop Webcam Widget
+
+*The Desktop Webcam Widget*
 
 This fork is a reboot of the abandoned [CamDesk](http://michaelsboost.com/CamDesk/).
+
 
 ## Acknowledgement
 
